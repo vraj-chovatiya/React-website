@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-website/static/css/main.fbba5210.css",
+    "main.js": "/React-website/static/js/main.6a2d6269.js",
+    "static/media/box-6.jpg": "/React-website/static/media/box-6.2e9c0b4f2d40c5efea63.jpg",
+    "static/media/box-2.jpg": "/React-website/static/media/box-2.5a6de739a1388a33a930.jpg",
+    "static/media/box-4.jpg": "/React-website/static/media/box-4.3bf56791c9a43f24ea5a.jpg",
+    "static/media/box-3.jpg": "/React-website/static/media/box-3.7b106e1e33fc588cbfea.jpg",
+    "static/media/box-5.jpg": "/React-website/static/media/box-5.532546aead4f5002e0c9.jpg",
+    "static/media/box-1.jpg": "/React-website/static/media/box-1.f117ec2a2105391a6090.jpg",
+    "static/media/img.png": "/React-website/static/media/img.f77f3c146707608b44dd.png",
+    "static/media/image-2.png": "/React-website/static/media/image-2.6d4f5d2880cbe3809be1.png",
+    "index.html": "/React-website/index.html",
+    "main.fbba5210.css.map": "/React-website/static/css/main.fbba5210.css.map",
+    "main.6a2d6269.js.map": "/React-website/static/js/main.6a2d6269.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbba5210.css",
+    "static/js/main.6a2d6269.js"
+  ]
+}
